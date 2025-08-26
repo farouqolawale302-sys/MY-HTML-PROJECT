@@ -1,0 +1,26 @@
+<!DOC TYPE html>
+<html lang="en-us">
+<title>About me</title>
+<body style="background-color: powderblue;">
+<body style="font-family: 'Courier New', Courier, monospace;">
+<h1 style="font-family:verdana;" "Text-Align: center;">Story about me</h1>
+<a href="https://nkiri.com">visit my favorite movie channel</a>
+
+<img src="img_girl.jpg">alt="a girl putting on a black jacket">
+<p>My name is farouq olawale</p>
+<p><b>I am a student of the air force institute of tecnology</b></p>
+<p style="font-size:200%;">I am 17 years old and the first-child of Mr and Mrs olawale</p>
+<p> My best food is rice and <del> spag </del> beans</p>
+<p>I am a gamer and i do play <pre> Free fire </pre> <pre> COD </pre> <pre> Blood Strike </pre></p>
+<hr> </hr>
+<p style="font-family:Verdana, Geneva, Tahoma, sans-serif;" "font-size:120px;"> MY ROLE MODEL IS ELON MUSK</p>
+<p> Here is a quote from elon musk page </p>
+<blockquote cite="https://en.wikipedia.org/wiki/Elon_Musk">"Elon was an enthusiastic reader of books, and had attributed his success in part to having read The Lord of the Rings, the Foundation series, and The Hitchhiker's Guide to the Galaxy.[11][35] At age ten, he developed an interest in computing and video games, teaching himself how to program from the VIC-20 user manual.[36] At age twelve, Elon sold his BASIC-based game Blastar to PC and Office Technology magazine for approximately $500.[37][38]"</blockquote>
+<p>Space X launched by Elon Musk goal is to:<q>make humanity a multi planetry speciesbe able to take people to Mars so that they can colonize the red planet. Closer to home, he also wants to use Starship to deploy Starlink satellites.2 days ago</q></p>
+<p> The <abbr title="World Wrestling Entertainment"> WWE </abbr>was founded in 1953 and patnered with elonmusk in year_2024</p>
+<address> Written by damola.<br>Visit us at:<br><a href=:"https://github.com/users/farouqolawale302-sys/projects/2">Visit My Github Website</a><br>Air Force Institute Of Technology, Kaduna State.<br>Nigeria<br></address>
+<img src="img_Space X.jpg" Alt="By elon Musk">
+<p> <cite> The Space X<a href="https://en.wikipedia.org/wiki/SpaceX">visit Space X by elon musk</a></cite> by Elon Musk founded in 2002.</p>
+<bdo dir="rtl">Elon Musk Made It In LIfe</bdo>
+</body>
+</html>
